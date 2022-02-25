@@ -10,7 +10,8 @@ find_package(catkin REQUIRED COMPONENTS
 # Generate messages in the 'msg' folder
 add_message_files(
   FILES
-  Motor.msg
+  MotorDevice.msg
+  MotorDevices.msg
   MotorCmdCurrent.msg
   MotorCmdPosition.msg
   MotorCmdVelocity.msg
