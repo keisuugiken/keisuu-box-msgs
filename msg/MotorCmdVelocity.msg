@@ -2,4 +2,4 @@
 Header header
 uint8 usb_id
 uint32 motor_id   # motor id
-uint32 speed      # speed [dps]
+float32 speed      # speed [dps]
