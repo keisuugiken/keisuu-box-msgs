@@ -1,2 +1,2 @@
 Header header
-MotorDevice[] devices
+keisuu_box_msgs/MotorDevice[] devices
