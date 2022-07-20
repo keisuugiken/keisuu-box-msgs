@@ -16,6 +16,7 @@ add_message_files(
   MotorCmdPosition.msg
   MotorCmdVelocity.msg
   MotorPosition.msg
+  MotorCmdSetZero.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
